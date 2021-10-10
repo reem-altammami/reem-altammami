@@ -6,9 +6,9 @@
  - Java
  - JavaScript
  
-I’m currently have a great chance to learning **Kotlin** , i will work hard:muscle: and enjoy :heart_eyes:
+I’m currently have a great chance to learning **Kotlin**, i will work hard:muscle: and enjoy :heart_eyes:
 
-I'm looking to collaborate and share a lot of content:revolving_hearts:
+I'm looking to collaborate and share a lot of content :revolving_hearts:
 <!---
 reem-altammami/reem-altammami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
